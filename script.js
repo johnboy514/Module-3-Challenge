@@ -29,6 +29,7 @@ function writePassword() {
   }
   if (length < 8 || length > 128) {
     alert("Password must be between 8 and 128 characters");
+    return;
   } else {  useLetters = confirm("Use lower case letters?");
             useUppers = confirm("Use upper case letters?");
             useNumbers = confirm("Use numbers?");
