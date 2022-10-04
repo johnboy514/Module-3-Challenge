@@ -15,7 +15,7 @@ This project was used to further my understanding of arrays and how to make sure
 
 ## Installation
 
-To use this project the user needs to open the index.html in a browser. it can also be reached on github live pages from this link https://johnboy514.github.io/Module-3-Challenge/
+To use this project the user needs to open the index.html in a browser. it can also be reached on github live pages from this link https://johnboy514.github.io/Password-Generator/
 
 ## Usage
 
