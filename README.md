@@ -21,11 +21,11 @@ To use this project the user needs to open the index.html in a browser. it can a
 
 To use this project, the user can click on the red button labled "Generate Password" this will then prompt the user to choose a length, then what types of symbols they want added into the password. After that the password will be generated and displayed in the box above the button.
 
-![Email example](assets/images/generate-password.png)
-![Email example](assets/images/password-button.png)
-![Email example](assets/images/length-password.png)
-![Email example](assets/images/choose-symbols.png)
-![Email example](assets/images/generated-password.png)
+![Generate Password](assets/images/generate-password.png)
+![Button to Click](assets/images/password-button.png)
+![Length Prompt](assets/images/length-password.png)
+![Symbol Prompt](assets/images/choose-symbols.png)
+![End Result](assets/images/generated-password.png)
 
 ## Credits
 
