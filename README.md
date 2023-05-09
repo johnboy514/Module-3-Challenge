@@ -1,7 +1,5 @@
 # Password-Generator
 
-# Module-3-Challenge
-
 ## Description
 
 This project was used to further my understanding of arrays and how to make sure that when creating an array using other arrays that they are correctly incorporated into the final displayed array. 
